@@ -207,8 +207,6 @@ user_ai_keys
 ✅ আপনি যেটা use করবেন
 ✅ GitHub✅ Vercel✅ Render✅ Neon✅ Next.js✅ NestJS✅ PostgreSQL
 
-<<<<<<< HEAD
-=======
 
 সকল ফোল্ডার ও ফাইল তৈরি করার জন্য।
 scripts/generate-structure.js
