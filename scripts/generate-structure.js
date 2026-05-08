@@ -9,15 +9,15 @@ const structure = [
   "apps/web/public/favicon.ico",
 
   "apps/web/src/app/layout.tsx",
-  "apps/web/src/app/(public)/page.tsx",
-  "apps/web/src/app/(public)/pricing/page.tsx",
-  "apps/web/src/app/(public)/about/page.tsx",
-  "apps/web/src/app/(public)/features/page.tsx",
-  "apps/web/src/app/(public)/contact/page.tsx",
+  "apps/web/src/app/public/page.tsx",
+  "apps/web/src/app/public/pricing/page.tsx",
+  "apps/web/src/app/public/about/page.tsx",
+  "apps/web/src/app/public/features/page.tsx",
+  "apps/web/src/app/public/contact/page.tsx",
 
-  "apps/web/src/app/(auth)/login/page.tsx",
-  "apps/web/src/app/(auth)/register/page.tsx",
-  "apps/web/src/app/(auth)/forgot-password/page.tsx",
+  "apps/web/src/app/auth/login/page.tsx",
+  "apps/web/src/app/auth/register/page.tsx",
+  "apps/web/src/app/auth/forgot-password/page.tsx",
 
   "apps/web/src/app/dashboard/page.tsx",
   "apps/web/src/app/dashboard/generator/page.tsx",
